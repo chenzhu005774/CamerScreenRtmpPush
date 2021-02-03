@@ -1,0 +1,13 @@
+# ninja log v5
+171	902	0	CMakeFiles/push.dir/src/main/cpp/CallJava.cpp.o	1d5bd7063606dd20
+218	1369	0	CMakeFiles/push.dir/src/main/cpp/librtmp/amf.c.o	bfc10474896683cd
+343	1443	0	CMakeFiles/push.dir/src/main/cpp/librtmp/hashswf.c.o	ff65b60c601f5706
+1	1738	0	CMakeFiles/push.dir/src/main/cpp/push.cpp.o	85a2f489cfd9ceb5
+903	1746	0	CMakeFiles/push.dir/src/main/cpp/librtmp/log.c.o	8479e3b47fdb660b
+82	1750	0	CMakeFiles/push.dir/src/main/cpp/RtmpPush.cpp.o	29a1199199d74514
+34	1893	0	CMakeFiles/push.dir/src/main/cpp/Queue.cpp.o	ebc8eda972b5bbcf
+1370	2018	0	CMakeFiles/push.dir/src/main/cpp/librtmp/parseurl.c.o	86f8e4ea03d43f20
+1443	2283	0	CMakeFiles/push.dir/src/main/cpp/librtmp/rtmp.c.o	c33bda241093182c
+2283	2585	0	../../../../build/intermediates/cmake/debug/obj/x86/libpush.so	40a28ac1807d996c
+4	1138	0	CMakeFiles/push.dir/src/main/cpp/RtmpPush.cpp.o	29a1199199d74514
+1139	1792	0	../../../../build/intermediates/cmake/debug/obj/x86/libpush.so	40a28ac1807d996c

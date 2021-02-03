@@ -1,0 +1,87 @@
+
+{
+	"buildFiles" : [ "D:/AndroidstudioSpace/RtmpLivePushDemo/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"D:\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\debug\\x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"push-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "push",
+			"buildCommand" : "D:\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\debug\\x86_64 --target push",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dpush_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/src/main/cpp/push.cpp",
+					"workingDirectory" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dpush_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/src/main/cpp/Queue.cpp",
+					"workingDirectory" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dpush_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/src/main/cpp/RtmpPush.cpp",
+					"workingDirectory" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dpush_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/src/main/cpp/CallJava.cpp",
+					"workingDirectory" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dpush_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/src/main/cpp/librtmp/amf.c",
+					"workingDirectory" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dpush_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/src/main/cpp/librtmp/hashswf.c",
+					"workingDirectory" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dpush_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/src/main/cpp/librtmp/log.c",
+					"workingDirectory" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dpush_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/src/main/cpp/librtmp/parseurl.c",
+					"workingDirectory" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/.cxx/cmake/debug/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dpush_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -DNO_CRYPTO -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/src/main/cpp/librtmp/rtmp.c",
+					"workingDirectory" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/.cxx/cmake/debug/x86_64"
+				}
+			],
+			"output" : "D:/AndroidstudioSpace/RtmpLivePushDemo/app/build/intermediates/cmake/debug/obj/x86_64/libpush.so",
+			"toolchain" : "3494228753"
+		}
+	},
+	"toolchains" : 
+	{
+		"3494228753" : 
+		{
+			"cCompilerExecutable" : "D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/NDK/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

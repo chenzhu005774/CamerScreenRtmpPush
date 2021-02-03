@@ -1,0 +1,15 @@
+Executable : D:\sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\AndroidstudioSpace\RtmpLivePushDemo\app
+-BD:\AndroidstudioSpace\RtmpLivePushDemo\app\.cxx\cmake\release\arm64-v8a
+-DANDROID_ABI=arm64-v8a
+-DANDROID_PLATFORM=android-19
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\AndroidstudioSpace\RtmpLivePushDemo\app\build\intermediates\cmake\release\obj\arm64-v8a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\NDK\android-ndk-r19c
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions
+-DCMAKE_TOOLCHAIN_FILE=D:\NDK\android-ndk-r19c\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

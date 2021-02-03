@@ -1,0 +1,13 @@
+# ninja log v5
+112	613	0	CMakeFiles/push.dir/src/main/cpp/CallJava.cpp.o	904f294e77808cfc
+188	1059	0	CMakeFiles/push.dir/src/main/cpp/librtmp/amf.c.o	30469349557acc44
+318	1341	0	CMakeFiles/push.dir/src/main/cpp/librtmp/hashswf.c.o	c1ef3fc07596e6e5
+77	1603	0	CMakeFiles/push.dir/src/main/cpp/RtmpPush.cpp.o	16e9c30e4944a0b9
+45	1632	0	CMakeFiles/push.dir/src/main/cpp/Queue.cpp.o	754243b92d1cd45
+1	1697	0	CMakeFiles/push.dir/src/main/cpp/push.cpp.o	8a8b788c95a0f405
+613	1721	0	CMakeFiles/push.dir/src/main/cpp/librtmp/log.c.o	aaf92d9e4b8bc71f
+1060	1887	0	CMakeFiles/push.dir/src/main/cpp/librtmp/parseurl.c.o	b4b681b925791950
+1341	2147	0	CMakeFiles/push.dir/src/main/cpp/librtmp/rtmp.c.o	45534be4cc9bf142
+2147	2424	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libpush.so	bbc26c5efc5283ff
+25	926	0	CMakeFiles/push.dir/src/main/cpp/RtmpPush.cpp.o	16e9c30e4944a0b9
+926	1666	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libpush.so	bbc26c5efc5283ff

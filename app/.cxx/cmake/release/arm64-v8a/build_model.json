@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo",
+      "sdkFolder": "D:\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app",
+      "makeFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\.cxx",
+      "cxxFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx",
+      "ndkFolder": "D:\\NDK\\android-ndk-r19c",
+      "ndkVersion": "19.2.5345600",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-frtti -fexceptions"
+    ],
+    "variantName": "release",
+    "soFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 19,
+  "cxxBuildFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\release\\arm64-v8a",
+  "jsonFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cxx\\release\\arm64-v8a",
+  "objFolder": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a",
+  "buildCommandFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_command.txt",
+  "buildOutputFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_output.txt",
+  "modelOutputFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cxx\\release\\arm64-v8a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cxx\\release\\arm64-v8a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cxx\\release\\arm64-v8a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cxx\\release\\arm64-v8a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\AndroidstudioSpace\\RtmpLivePushDemo\\app\\.cxx\\cmake\\release\\arm64-v8a\\compile_commands.json"
+}

@@ -1,0 +1,17 @@
+# ninja log v5
+243	796	0	CMakeFiles/push.dir/src/main/cpp/CallJava.cpp.o	ff219ede34c5650d
+288	1908	0	CMakeFiles/push.dir/src/main/cpp/librtmp/amf.c.o	feab6cea2fe7cd07
+438	1986	0	CMakeFiles/push.dir/src/main/cpp/librtmp/hashswf.c.o	c08466ada7cb7942
+796	2032	0	CMakeFiles/push.dir/src/main/cpp/librtmp/log.c.o	34e55ce316162cfd
+0	2174	0	CMakeFiles/push.dir/src/main/cpp/push.cpp.o	3fffe572b16d0f77
+200	2208	0	CMakeFiles/push.dir/src/main/cpp/RtmpPush.cpp.o	8cf208f7857ed199
+168	2456	0	CMakeFiles/push.dir/src/main/cpp/Queue.cpp.o	bb08a40aa2c51ae5
+1908	2479	0	CMakeFiles/push.dir/src/main/cpp/librtmp/parseurl.c.o	ee378adc1421fd1c
+1986	2853	0	CMakeFiles/push.dir/src/main/cpp/librtmp/rtmp.c.o	34d02287d59f4372
+2853	3211	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libpush.so	80a3b426c231c9c
+3	1500	0	CMakeFiles/push.dir/src/main/cpp/RtmpPush.cpp.o	8cf208f7857ed199
+1500	2203	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libpush.so	80a3b426c231c9c
+3	731	0	CMakeFiles/push.dir/src/main/cpp/RtmpPush.cpp.o	8cf208f7857ed199
+731	958	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libpush.so	80a3b426c231c9c
+2	723	0	CMakeFiles/push.dir/src/main/cpp/RtmpPush.cpp.o	8cf208f7857ed199
+723	944	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libpush.so	80a3b426c231c9c
